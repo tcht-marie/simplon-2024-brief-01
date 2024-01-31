@@ -2,16 +2,22 @@
 
 This project serve the Landing page from our company.
 
-## Available Scripts
+## Ce que j'ai fait
+
+- ajout d'une nouvelle section avec un H2 "Abonnements" et 4 div contenant les différents abonnements.
+
+- ajout de class pour le style
+
+### Available Scripts
 
 In the project directory, you can run:
 
-### `npm install`
+#### `npm install`
 
 Install all dependencies needed to run the project.\
 In development process, this is most often followed by `npm start`
 
-### `npm start`
+#### `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
