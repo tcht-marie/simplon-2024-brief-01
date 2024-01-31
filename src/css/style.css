@@ -8,7 +8,7 @@ body, html {
 
 header {
   text-align: center;
-  background-color: #007bff;
+  background-color: #2db9b9;
   color: #fff;
   padding-bottom: 20px;
 }
@@ -52,6 +52,25 @@ section.features .feature-container .feature {
   border: 1px solid #ccc;
   border-radius: 10px;
   box-sizing: border-box;
+}
+
+.feature-container2 {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+}
+
+.feature {
+  border: 1px solid #ccc;
+  border-radius: 10px;
+}
+
+.feature-p {
+  padding: 0 1em;
+}
+
+.price {
+  font-weight: 500;
 }
 
 /* Media Queries */
