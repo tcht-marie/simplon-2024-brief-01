@@ -3,7 +3,7 @@ import '../design/Subscription.css';
 
 export default function Subscriptions() {
   return (
-    <section class="subscriptions">
+    <section id="subscriptions" class="subscriptions">
             <h2>Abonnements</h2>
             <div class="subscription-container2">
                 <div class="subscription">
