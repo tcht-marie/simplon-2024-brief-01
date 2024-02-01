@@ -6,7 +6,7 @@ This project serve the Landing page from our company.
 
 - ajout component Subscription
 - ajout design Subscription
-- ajout de l'appel de la fonction Subscription à la page Home
+- ajout de l'appel de la fonction Subscriptions à la page Home
 
 ### Available Scripts
 
